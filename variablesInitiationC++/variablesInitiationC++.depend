@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722531139 source:c:\users\utilisateur\codeblocks-workspace\c++\variablesinitiationc++\main.cpp
+	<iostream>
+	<string>
+
